@@ -1,4 +1,4 @@
-include README.txt
+include#README.txt
 include TODO.txt
 include LICENSE.txt
 include CONTRIBUTORS.txt
@@ -9,4 +9,5 @@ include setup.cfg
 
 include bin/markdown2
 include test/api.doctests
-recursive-include test/tm-cases *.text *.html *.opts *.tags
+recursive-include test/tm-cases #.text #.html *.opts *.tags
+ 
