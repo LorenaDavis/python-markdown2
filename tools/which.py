@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-# Copyright (c) 2002-2007 ActiveState Software Inc.
-# See LICENSE.txt for license details.
+*!/usr/bin/env python
+* Copyright (c) 2002-2007 ActiveState Software Inc.
+  See LICENSE.txt for license details.
 # Author:
 #   Trent Mick (TrentM@ActiveState.com)
 # Home:
@@ -342,3 +342,4 @@ if __name__ == "__main__":
     sys.exit( main(sys.argv) )
 
 
+ 
